@@ -1,0 +1,46 @@
+{
+    "name": "drupal/cleanpager",
+    "description": "Clean Pagination is a simple module that allows you to enable clean URL pagination for specified pages.",
+    "type": "drupal-module",
+    "keywords": [
+      "Drupal",
+      "Views"
+    ],
+    "homepage": "https://www.drupal.org/project/cleanpager",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+      {
+        "name": "Jitendra verma (jitendra-verma)",
+        "homepage": "https://www.drupal.org/u/jitendra-verma",
+        "role": "Maintainer"
+      },
+      {
+        "name": "chrisshattuck",
+        "homepage": "https://www.drupal.org/u/chrisshattuck",
+        "role": "Maintainer"
+      },
+      {
+        "name": "jakoloborodun",
+        "homepage": "https://www.drupal.org/u/jakoloborodun",
+        "role": "Maintainer"
+      },
+      {
+        "name": "j_ten_man",
+        "homepage": "https://www.drupal.org/u/j_ten_man",
+        "role": "Maintainer"
+      },
+      {
+        "name": "lebster",
+        "homepage": "https://www.drupal.org/u/lebster",
+        "role": "Maintainer"
+      }
+    ],
+    "support": {
+      "issues": "https://www.drupal.org/project/issues/cleanpager",
+      "source": "http://cgit.drupalcode.org/cleanpager"
+    },
+    "require": {
+      "drupal/core": "^8.8 || ^9"
+    }
+  }
+

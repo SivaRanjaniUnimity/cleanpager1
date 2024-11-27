@@ -1,0 +1,11 @@
+name: Clean Pagination
+type: module
+description: Clean Pagination is a simple module that allows you to enable clean URL pagination for specified pages.
+core: 8.x
+core_version_requirement: ^8 || ^9
+configure: cleanpager.settings
+package: Pager
+# Information added by Drupal.org packaging script on 2023-11-28
+version: '2.0.0'
+project: 'cleanpager'
+datestamp: 1701160975
